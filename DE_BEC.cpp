@@ -10,7 +10,7 @@ Author: Qing Li
 E-Mail: qingli@cse.tamu.edu
 
 Description: This file implements density evolution for BEC channel. Also density evolution 
-forjoint decoder of content-replicated coders. (refer to my paper).
+for joint decoder of content-replicated coders. (refer to my paper).
 Date: 10/29/2014  
 */
 
